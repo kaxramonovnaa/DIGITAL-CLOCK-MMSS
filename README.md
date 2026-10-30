@@ -1,7 +1,7 @@
-//Digital Clock (MM:SS)
-//About the Project
-//This project is a digital clock designed and implemented using digital logic circuits.
-//It displays minutes and seconds in MM:SS format using four 7-segment displays.
+Digital Clock (MM:SS)
+About the Project
+This project is a digital clock designed and implemented using digital logic circuits.
+It displays minutes and seconds in MM:SS format using four 7-segment displays.
 Features
 • Four digital counter blocks
 • 1 Hz clock signal
